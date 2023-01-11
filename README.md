@@ -1,28 +1,19 @@
-Hi i'm Henrique 👋
-I'm a Full-Stack Web Developer, passionate at web development.
+Hi i'm Eduardo 👋
+I'm a Full-Stack Web Developer.
 Currently working at Marketdata as Java developer.
 
 🛠 Skills
 Languages
-Typescript Java Javascript Python Lua C#
+Java Javascript Python C#
 
 Frameworks Front-end
-ReactJS Next JS Angular.js
+Angular.js ReactJS Next JS
 
 Frameworks Back-end
-NestJS Flask Spring
-
-ORM
-Prisma Sequelize
-
-BaaS
-Firebase Supabase
+Spring
 
 Services
-AWS Heroku Vercel
+Heroku Vercel
 
-Devops
-Docker
-
-🔗 Links
+Links
 linkedin
