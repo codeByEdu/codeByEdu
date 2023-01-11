@@ -1,9 +1,28 @@
-- 👋 Hi, I’m @codeByEdu
-- 👀 I’m interested in studying new tecnologies 
-- 🌱 I’m currently learning angular, react.
-- 📫 How to reach me instagram.com/edupn_
+Hi i'm Henrique 👋
+I'm a Full-Stack Web Developer, passionate at web development.
+Currently working at Marketdata as Java developer.
 
-<!---
-codebyEdu/codeByEdu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠 Skills
+Languages
+Typescript Java Javascript Python Lua C#
+
+Frameworks Front-end
+ReactJS Next JS Angular.js
+
+Frameworks Back-end
+NestJS Flask Spring
+
+ORM
+Prisma Sequelize
+
+BaaS
+Firebase Supabase
+
+Services
+AWS Heroku Vercel
+
+Devops
+Docker
+
+🔗 Links
+linkedin
